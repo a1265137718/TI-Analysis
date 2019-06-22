@@ -1,12 +1,12 @@
 # [培训机构分析报告（TI Analysis）]( https://hoodiearon.github.io/TIAnalysis/)
 
-**<details><summary>相关搜索视频内容 click me! </summary>**
+**<details><summary>关于培训机构诈骗内容</summary>**
 
 ![](https://i.postimg.cc/PJFZfp9T/Snipaste-2019-05-29-00-36-16.png)
 
 </details>
 
-**<details><summary>相关媒体曝光链接 click me! </summary>**
+**<details><summary>相关媒体曝光链接</summary>**
 
 * [南方网 - 免费噱头尽是“套路” 警方侦破培训诈骗案](https://xw.qq.com/edu/20170505012547)
 * [北京晚报 - 培训贷诈骗案涉事老板被捕 近期全国多地均有此类“招生”陷阱](https://www.takefoto.cn/viewnews-1598036.html)
