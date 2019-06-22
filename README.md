@@ -1,4 +1,4 @@
-# [培训机构分析报告（TIAnalysis）]( https://hoodiearon.github.io/TIAnalysis/)
+# [培训机构分析报告（TI Analysis）]( https://hoodiearon.github.io/TIAnalysis/)
 
 **<details><summary>相关搜索视频内容 click me! </summary>**
 
